@@ -3,7 +3,7 @@
 
  function add(a, b) {
     return a + b;
- };
+ }
 
  console.log(typeof add);
 
@@ -22,8 +22,8 @@ console.log(divide(8, 4));
 console.log(divide(8));
 
 
-console.log(AGE);
-const log = (a)
+
+
 console.log(AGE);
  console.log(sumar('hello', 'world'));
  console.log(AGE);
